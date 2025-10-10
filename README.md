@@ -1,6 +1,7 @@
 # Date A Live - SillyTavern World Info Repository
 
-![Date A Live Logo Banner](https://i.imgur.com/83J22gV.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05a9c23b-ce19-497a-b576-056f869e423d" />
+
 
 Welcome to a high-fidelity *Date A Live* World Information repository for SillyTavern. This project provides an exceptionally detailed and lore-accurate set of files designed to create an immersive and consistent AI roleplaying experience within the *Date A Live* universe.
 
@@ -12,7 +13,7 @@ This lorebook was never intended for a public release. For a long time, it was a
 
 However, after looking at the other *Date A Live* lorebooks available to the public, I felt a sense of disappointment. The quality was low, the details were often wrong, and the overall experience felt shallow and inaccurate. Frankly, I felt bad that the community didn't have a better resource.
 
-That feeling is what led to this repository. I decided to take my personal, obsessively detailed lorebook, clean it up, and release it to the public in the hope that it can provide everyone with the kind of high-quality, lore-accurate roleplay that I've been enjoying. This is my effort to give back and raise the standard for what a good lorebook can be.
+That feeling is what led to this repository. I decided to take my personal, obsessively detailed lorebook, clean it up, and release it to the public in the hope that it can provide everyone with the kind of high-quality, lore-accurate roleplay that I've been enjoying.
 
 ## A Note on Creation
 
@@ -32,7 +33,7 @@ This is the main, essential file. It contains over 100 detailed entries covering
 
 ### 2. The Storyline Addon (`Date a Live Arcs.json`)
 
-This is an **optional but highly recommended** companion file. It breaks down the entire *Date A Live* anime/light novel plot into sequential arcs.
+This is the **optional but highly recommended sister lorebook** to the main Core Lorebook. It breaks down the entire *Date A Live* anime/light novel plot into sequential arcs.
 - **Purpose:** To give the AI context of "what has happened so far" in the story.
 - **How it Works:** By enabling arcs sequentially, you can guide the roleplay through the canon timeline. For example, if you only enable "Arc 1" and "Arc 2," the AI will know that Tohka and Yoshino have been sealed, but it will have no knowledge of Kurumi or the Yamai twins yet.
 - **AI Instructions:** Includes a detailed entry that instructs the AI on how to interpret the arcs and integrate a user's original character into the narrative logically.
@@ -46,13 +47,12 @@ This is an **optional but highly recommended** companion file. It breaks down th
 5.  **Select File:** Choose the `.json` file(s) you downloaded. The entries will be automatically imported.
 6.  **Enable Entries:** By default, all entries will be enabled. If using the `Date a Live Arcs.json` file, it is recommended to disable the arcs that take place after your desired starting point.
 
-### Recommended Settings for the Best Experience
+### Recommended Settings for the Best Experience (In my experience with this)
 
 To get the absolute best performance and most immersive roleplay out of this comprehensive lorebook, the following setup is highly recommended:
 
 -   **AI Model:** **Google Gemini 2.5 Pro** (if available). The massive context window and advanced reasoning capabilities of this model are ideal for wrangling a beast of this size and making sense of the over 40,000 tokens of information.
--   **SillyTavern Extension:** **Lucid Loom**. This lorebook was designed and tested with the structured data handling of Lucid Loom in mind. Using it will ensure the AI can make the most logical and context-aware use of the provided information.
-
+-   **SillyTavern Preset:** **Lucid Loom**. This lorebook does really well with Lucid Loom, so definitely use that if you want a good experience.
 While the lorebook will function with other models and setups, this combination will provide the highest fidelity experience.
 
 ## Key Features
@@ -65,6 +65,10 @@ While the lorebook will function with other models and setups, this combination 
 - **OC Friendly:** The framework is designed to be accommodating to original characters, with specific instructions for the AI on how to logically integrate them.
 
 
+## Source of Information
+
+It is important to note that all of the canonical information contained within these lorebooks has been sourced directly from the public Date A Live Wiki. This project is an act of curation, organization, and formatting of that publicly available data for optimal use in AI roleplaying.
+
 ## Contributing & Feedback
 
-Found an error, a typo, or have a suggestion for an improvement? Please feel free to open an "Issue" on this GitHub repository! Your feedback is invaluable in making this the best possible resource for the community.
+If there's anything wrong or it's missing any information, just ping me in Discord or smth, I have a crap ton of freetime so I should respond.
