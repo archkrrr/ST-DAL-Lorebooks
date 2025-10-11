@@ -55,6 +55,14 @@ To get the absolute best performance and most immersive roleplay out of this com
 -   **SillyTavern Preset:** **Lucid Loom**. This lorebook does really well with Lucid Loom, so definitely use that if you want a good experience.
 While the lorebook will function with other models and setups, this combination will provide the highest fidelity experience.
 
+### How to know if you did it right
+
+If your messages are looking like this, then you've gotten it properly set up.
+
+<img width="892" height="1150" alt="image" src="https://github.com/user-attachments/assets/4c31ab30-1113-41c8-9a83-51ef47b5d9f1" />
+
+
+
 ## Key Features
 
 - **Unmatched Detail:** Each entry is written to provide maximum context, including character mannerisms, speech patterns, and thematic importance.
